@@ -1,0 +1,7 @@
+C:\Users\prave\source\repos\18June\DemoApp1\obj\Docker\publish\DemoApp1.exe
+C:\Users\prave\source\repos\18June\DemoApp1\obj\Docker\publish\appsettings.Development.json
+C:\Users\prave\source\repos\18June\DemoApp1\obj\Docker\publish\appsettings.json
+C:\Users\prave\source\repos\18June\DemoApp1\obj\Docker\publish\DemoApp1.dll
+C:\Users\prave\source\repos\18June\DemoApp1\obj\Docker\publish\DemoApp1.deps.json
+C:\Users\prave\source\repos\18June\DemoApp1\obj\Docker\publish\DemoApp1.runtimeconfig.json
+C:\Users\prave\source\repos\18June\DemoApp1\obj\Docker\publish\DemoApp1.pdb
